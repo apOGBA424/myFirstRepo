@@ -1,6 +1,6 @@
 # pim
 
-A flutter to learn routing.
+A flutter project to learn routing.
 
 ## Getting Started
 
